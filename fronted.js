@@ -1,0 +1,4 @@
+{
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0
